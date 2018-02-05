@@ -6,7 +6,7 @@ Online resources that will help you prepare for taking the Kubernetes Certified 
 
 I tried to restrict the cross references of resources to [kubernetes.io](kubernetes.io). Youtube videos and other blog resources are optional; however, I still found them useful in my k8s learning journey.
 
-Ensure you have the right version of Kubernetes documentation selected (e.g. v1.8 for the current exam) especially for API objects and annotations.
+Ensure you have the right version of Kubernetes documentation selected (e.g. v1.9 for the current exam) especially for API objects and annotations.
 
 ## Exam Objectives
 
@@ -14,8 +14,8 @@ These are the exam objectives you review and understand in order to pass the tes
 
 * [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum)
 
-### [Core Concepts](https://v1-8.docs.kubernetes.io/docs/concepts/) 19%
-* [Understand the Kubernetes API primitives](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/)
+### [Core Concepts](https://v1-9.docs.kubernetes.io/docs/concepts/) 19%
+* [Understand the Kubernetes API primitives](https://v1-9.docs.kubernetes.io/docs/api-reference/v1.9/)
   * [concepts: Kubernetes Objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
   * youtube: [Kubernetes Webinar Series - Kubernetes Architecture 101](https://www.youtube.com/watch?v=zeS6OyDoy78)
 * [Understand the Kubernetes cluster architecture](https://kubernetes.io/docs/concepts/overview/components/)
